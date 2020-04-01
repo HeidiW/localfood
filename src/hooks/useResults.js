@@ -10,8 +10,8 @@ const [results, setResults] = useState([]);
         const response = await yelp.get('/search', {
             params: {
                 limit: 50,
-                term,
-                location: 'san jose'
+                term: searchTerm,
+                location: 'brooklyn'
             }
         });
         setResults(response.data.businesses);
