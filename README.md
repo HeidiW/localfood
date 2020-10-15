@@ -2,6 +2,8 @@
 **Built with React Native**
 and the Yelp API
 
+You must have Xcode (Mac OS) or Android Studio installed to follow the below instructions.
+
 LocalFood uses the Metro Bundler https://facebook.github.io/metro/<br><br>
 To run the app:
 1. Download code to your local machine
