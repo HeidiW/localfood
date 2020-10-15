@@ -14,3 +14,6 @@ To run the app:
 - ResultsList.js
 - ResultsDetail.js
 - SearchBar.js
+<br>
+
+![LocalFood on iOS](https://i.imgur.com/cbdFyng.png)
